@@ -202,7 +202,7 @@ var shop = function() {
 
   // convert answer from prompt to an actual number
   shopOptionPrompt = parseInt(shopOptionPrompt);
-
+  
   // use switch case to carry out action
   switch (shopOptionPrompt) {
     case 1:
@@ -220,7 +220,6 @@ var shop = function() {
       break;
   }
 };
-
 // function to set name
 var getPlayerName = function() {
   var name = "";
