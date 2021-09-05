@@ -164,7 +164,6 @@ var shop = function() {
       break;
   }
 };
-
 /* END GAME FUNCTIONS */
 
 /* GAME INFORMATION / VARIABLES */
